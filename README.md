@@ -8,12 +8,8 @@ Welcome to the Weekly Expense Tracker! This project helps you input your budget 
 
 - [Description](#description)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Description
 
